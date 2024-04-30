@@ -1,5 +1,4 @@
 """Main module."""
-from typing import Self
 import ipyleaflet
 
 class  map(ipyleaflet.Map):
